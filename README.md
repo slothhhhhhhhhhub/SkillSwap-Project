@@ -4,11 +4,11 @@ UWI COMP 2606 Group Project | Platform for individuals to exchange skills.
 # Overview
 SkillSwap is a group project developed for a university course on software engineering. It’s a platform that enables individuals to trade skills (e.g. gardening for pottery) through a clean interface and secure matching system.
 
-> ⚠️ Note: This was a team project. The demo video includes contributions from my teammates, but this repo showcases the parts I personally worked on.
+> ⚠️ Note: This was a team project. The demo video includes contributions from my teammates, but this repo showcases the parts I personally worked on. This repo contains documentation and a video explanation only. No code was written.
 
 # My Contribution
 - Designed and developed the wireframes using Figma
-- Finalisied system requirements.
+- Conducted user research (via interview) inalisied system requirements.
 - Conducted the risk assessment. 
 
 # Demo Video
@@ -17,7 +17,8 @@ SkillSwap is a group project developed for a university course on software engin
 *(Team presentation; timestamps 1:48 - 2:36, 4:46 - 5:24 and 6:39 - 7:15 show my parts)*
 
 # Technologies
-- Figma 
+- Figma
+- Google Docs
 
 # Files
 - 'wireframe1.png', 'wireframe2.png' and 'wireframe3.png'  – Figma screenshots
